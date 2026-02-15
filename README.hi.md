@@ -14,7 +14,7 @@
   <a href="https://downloads.accomplish.ai/downloads/0.3.8/macos/Accomplish-0.3.8-mac-arm64.dmg"><img src="https://img.shields.io/badge/Download-macOS-0ea5e9?style=flat-square" alt="macOS के लिए डाउनलोड करें" /></a>
 </p>
 
-# Accomplish™ (पूर्व में Openwork) - ओपन सोर्स AI डेस्कटॉप एजेंट
+# Accomplish™ (formerly Openwork)  - ओपन सोर्स AI डेस्कटॉप एजेंट
 
 Accomplish एक ओपन सोर्स AI डेस्कटॉप एजेंट है जो आपकी मशीन पर स्थानीय रूप से फ़ाइल प्रबंधन, दस्तावेज़ निर्माण और ब्राउज़र कार्यों को स्वचालित करता है। अपनी API keys (OpenAI, Anthropic, Google, xAI) का उपयोग करें या Ollama के माध्यम से स्थानीय मॉडल चलाएँ।
 
